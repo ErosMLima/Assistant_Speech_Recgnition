@@ -1,4 +1,4 @@
-# speach_rec - My personal assistant
+# speech_rec - My personal assistant
 
 **Hello!** This was a project that I developed to learn how to deal with new libraries such as pyttsx3 and speech_recognition.
 
