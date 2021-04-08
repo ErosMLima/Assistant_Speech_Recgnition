@@ -1,4 +1,4 @@
-# speech_rec - My personal assistant
+#🎙️speech_rec - My personal assistant
 
 **Hello!** This was a project that I developed to learn how to deal with new libraries such as pyttsx3 and speech_recognition.
 
@@ -6,7 +6,7 @@ I was inspired by [Programming Hero Video](https://www.youtube.com/watch?v=AWvsX
 
 If you'd like to remake this assistant, you must have the following libraries intalled: 
 - pyttsx3
-- speech_recognition
+- speech_recognition 🎙️
 - pywhatkit
 
 I also used `openweathermaps`for the forecasting.
